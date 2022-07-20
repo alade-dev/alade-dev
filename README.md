@@ -10,7 +10,7 @@ A FrontEnd javascript designer with 2 years engaged in building deep efficient w
 * ✉️  You can contact me at [ibisomimayowa@gmail.com](mailto:ibisomiteslim1@gmail.com)
 * 🧠  I'm learning React Native
 
-<a href="https://www.twitter.com/itzteslar" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/teslim_ibisomi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itzteslar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/alade-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alade-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
