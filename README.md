@@ -8,7 +8,7 @@ A FrontEnd javascript developer with 1+ years engaged in building deep efficient
 
 * 🌍  I'm based in Ilorin, Nigeria
 * ✉️  You can contact me at [ibisomimayowa@gmail.com](mailto:ibisomiteslim1@gmail.com)
-* 🧠  I'm learning React Native
+
 
 
 <a href="https://www.github.com/alade-dev" target="_blank" rel="noreferrer"><img
