@@ -1,10 +1,7 @@
 Hi 👋 My name is Teslim Ibisomi
 ===============================
 
-Front-End Web Developer
------------------------
 
-A FrontEnd javascript developer with 1+ years engaged in building deep efficient web applications in terms of collaboration and fast. Going forward, using tools like HTML5, CSS3 (improving my skills with the CSS frameworks like Bootstrap, Tailwind, Chakra UI ), Javascript, and React.js, currently learning React Native for cross-platform mobile app development. I render the designs into pixel-perfect interfaces that really blow the mind of the client. I love building beautiful user experiences and products with code. My future aim is to be a full-stack web developer with experience and knowledge of Node, Express, and firebase. My insight has been to extend to blockchain development using ether, Solana API, Near API, and Web3. I am deeply motivated and eager to learn new things. I love collaborating on web design with UI/UX designer Currently, I'm an undergraduate student studying computer engineering. Personal characteristics as a developer and engineering students -I like critical thinking -I also love finding new possibilities and ways to solve problems -Host a great codebase to enable simple collaboration I deeply look forward to helping more organizations thrive and other developers to achieve more.
 
 * 🌍  I'm based in Ilorin, Nigeria
 * ✉️  You can contact me at [ibisomimayowa@gmail.com](mailto:ibisomiteslim1@gmail.com)
