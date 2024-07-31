@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Teslim Ibisomi
 ======================================================================================================================================
 
-Frontend Developer
+FullStack Developer
 ------------------
 
-A seasoned frontend developer with over 4 years of experience in building user-friendly interfaces for web applications. I'm specialize in HTML, CSS, JavaScript, and modern frontend frameworks such as React.js and Vue.js. With a strong understanding of blockchain technology and has previously worked on decentralized applications (dApps) interfaces.
 
-* 🌍  I'm based in Abuja, Nigeria
+* 🌍  I'm based in Ilorin, Nigeria
 * ✉️  You can contact me at [ibisomimayowa@gmail.com](mailto:ibisomimayowa@gmail.com)
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on SAAS projects
